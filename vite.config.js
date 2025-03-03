@@ -19,5 +19,6 @@ export default defineConfig({
     host: true,
     strictPort: true,
     port: 8000,
+    allowedHosts: ['edusity-d87y.onrender.com']
   }
 })
